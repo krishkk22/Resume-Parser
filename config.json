@@ -1,0 +1,15 @@
+{
+  "matching_thresholds": {
+    "role_fuzz_ratio": 80,
+    "skill_fuzz_ratio": 85,
+    "combined_score_threshold": 31,
+    "years_experience_buffer": 1.2
+  },
+  "scoring_weights": {
+    "required_skills": 0.5,
+    "optional_skills": 0.10,
+    "role_match": 0.15,
+    "rule_based_total": 0.6,
+    "semantic_total": 0.4
+  }
+} 
