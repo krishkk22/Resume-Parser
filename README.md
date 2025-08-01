@@ -26,8 +26,8 @@ This project is a **smart resume parsing and shortlisting tool** built in Python
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/resume-parser.git
-   cd resume-parser
+   git clone https://github.com/krina-cg/CV-Parser-Scoring-.git
+   cd app.py
    ```
 
 2. **Install dependencies**
@@ -124,4 +124,4 @@ The tool will create:
 
 ## 👨‍💻 Author
 
-Developed by Shreyash
+Developed by ITFMS
