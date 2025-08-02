@@ -1,3 +1,5 @@
+The python version should be 3.12 only!!!
+
 pip install PyPDF2
 pip install spacy
 pip install rapidfuzz
