@@ -112,7 +112,7 @@ The tool will create:
 
 ## 🧠 Tech Stack
 
-- Python 3.x
+- Python 3.12
 - spaCy (`en_core_web_trf`)
 - PyPDF2
 - Sentence Transformers (`all-MiniLM-L6-v2`)
