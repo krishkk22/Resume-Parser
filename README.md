@@ -94,7 +94,7 @@ Follow the prompts to:
 - Enter job description
 - Define job role
 - Provide required and optional skills
-- Set experience range and location preference
+- Set experience range 
 
 ---
 

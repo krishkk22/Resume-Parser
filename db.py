@@ -6,7 +6,8 @@ from datetime import datetime
 import json
 
 # Use DATABASE_URL from environment or default to a local PostgreSQL instance
-DATABASE_URL = "postgresql://postgres:1234@localhost:5433/resume_db"
+DATABASE_URL = "postgresql+psycopg2://admin:1234@localhost:5432/resume_db"
+
 
 engine = create_engine(DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
