@@ -124,4 +124,4 @@ The tool will create:
 
 ## 👨‍💻 Author
 
-Developed by ITFMS
+Developed by Shreyash
